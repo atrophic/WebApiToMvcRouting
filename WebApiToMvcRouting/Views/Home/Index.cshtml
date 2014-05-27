@@ -1,0 +1,20 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        Demonstration of problem in generating links to MVC Routes when running Web API under a self-hosted server.
+
+        The example APIs are located at @Html.RouteLink("MvcRoute", "DefaultApi", new { httproute = "", Controller = "Example", Id = "MvcRoute"}) and @Html.RouteLink("ApiRoute",  "DefaultApi", new { httproute = "", Controller = "Example", Id = "ApiRoute"})
+    </div>
+</body>
+</html>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiToMvcRouting", "WebApiToMvcRouting\WebApiToMvcRouting.csproj", "{67751323-BFDD-40CD-9419-01BDA64B025C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiToMvcRouting.Test", "WebApiToMvcRouting.Test\WebApiToMvcRouting.Test.csproj", "{AEE168A9-7B85-405F-B4CD-9096CFA5FAC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67751323-BFDD-40CD-9419-01BDA64B025C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67751323-BFDD-40CD-9419-01BDA64B025C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67751323-BFDD-40CD-9419-01BDA64B025C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67751323-BFDD-40CD-9419-01BDA64B025C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEE168A9-7B85-405F-B4CD-9096CFA5FAC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE168A9-7B85-405F-B4CD-9096CFA5FAC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE168A9-7B85-405F-B4CD-9096CFA5FAC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE168A9-7B85-405F-B4CD-9096CFA5FAC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
